@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m working at X Global Inc.
+- 🔭 I’m looking for a job.
 - 🌱 I’m currently learning Cantonese and Japanese.
 - 🤔 I’m looking for some friends.
 - 💬 Ask me about movies, tech, and anything.
