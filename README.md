@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m looking for a job.
+- 🔭 Ex-employee of Baidu, Didi. Unemployed currently. 
 - 🌱 I’m currently learning Cantonese and Japanese.
 - 🤔 I’m looking for some friends.
 - 💬 Ask me about movies, tech, and anything.
