@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 Ex-employee of Baidu, Didi. Unemployed currently. 
+- 🔭 Ex-employee of Baidu, Didi. 
 - 🌱 I’m currently learning Cantonese and Japanese.
 - 🤔 I’m looking for some friends.
 - 💬 Ask me about movies, tech, and anything.
