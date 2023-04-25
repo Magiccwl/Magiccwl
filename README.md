@@ -6,6 +6,5 @@
 - 🌱 I’m currently learning Cantonese and Japanese.
 - 🤔 I’m looking for some friends.
 - 💬 Ask me about movies, tech, and anything.
-- 📫 How to reach me: [@Magical_Che](https://twitter.com/Magical_Che).
+- 📫 How to reach me: [@Jackchiey](https://twitter.com/Jackchiey).
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: No fun fact.
