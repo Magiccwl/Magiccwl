@@ -12,7 +12,7 @@ Jack</a></h1>
 
 - 🔭 Ex-employee of Baidu, Didi.
 
-- 🌱 I’m currently Working as a freelance, open to work for a collaborative team.
+- 🌱 I’m currently working as a freelance, but open to work for a collaborative team also.
 
 - 🌱 I’m currently learning Cantonese and Japanese. 
 
