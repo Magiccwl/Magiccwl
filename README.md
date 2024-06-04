@@ -16,13 +16,13 @@ Jack</a></h1>
 
 - 🌱 I’m currently learning Cantonese and Japanese. 
 
-- 📝 I regularly write articles on  <a href="https://jackchi.us/" target="blank">my website</a>
+- 📝 I regularly write articles on  <a href="https://jackchi.us/" target="blank">My website</a>
 
 - 💬 Ask me about **Web Dev** 
 
 - 📫 How to reach me **magicchewl@gmail.com**.
 
-- 📄 Know about my experiences <a href="https://jackchi.us/about" target="blank">About me</a>
+- 📄 Know about my experiences <a href="https://jackchi.us/#about" target="blank">About me</a>
 <br/>
 
 <img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
