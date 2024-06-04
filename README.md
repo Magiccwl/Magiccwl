@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://jackchi.us" target="blank">
 Jack</a></h1>
-<h3 align="center">A Passionate Web developer likes to share some shit.</h3>
+<h3 align="center">A Passionate Web developer likes to share some.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magiccwl&label=Profile%20views&color=0e75b6&style=flat" alt="magiccwl" /> </p>
 
